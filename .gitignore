@@ -1,0 +1,7 @@
+venv/
+dataset/
+trainer.yml
+labels.pickle
+attendance.csv
+__pycache__/
+*.pyc
